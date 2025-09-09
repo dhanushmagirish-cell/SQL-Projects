@@ -13,9 +13,7 @@ Covers schema design, sample data, views, triggers, window functions, and report
 - **social_triggers.sql** → Triggers for updating like counts  
 - **social_rankings.sql** → Ranking queries using window functions  
 - **social_reports.sql** → Report queries (top posts, active users, daily engagement)  
-- **social_reports.xlsx** → Reports in Excel format  
-- **social_reports.pdf** → Reports in PDF format  
-
+  
 ---
 
 ## 🚀 Features  
