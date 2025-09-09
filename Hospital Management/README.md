@@ -13,9 +13,8 @@ A SQL-based project designed to manage **patients, doctors, visits, billing, and
 - **hospital_reports.pdf** → Reports in PDF format  
 
 ## 🛠️ Tools  
-- MySQL (or MariaDB)  
-- DBeaver / MySQL Workbench  
-- Python (for generating Excel/PDF reports)  
+- MySQL  
+- MySQL Workbench  
 
 ## 🚀 Features  
 1. **Schema**: Patients, Doctors, Visits, Bills.  
@@ -29,10 +28,6 @@ A SQL-based project designed to manage **patients, doctors, visits, billing, and
    - Patient visit history  
    - Doctor’s appointments  
    - Billing summary  
-
-## 📊 Sample Reports (Generated from SQL)  
-- **Excel** → [hospital_reports.xlsx](hospital_reports.xlsx)  
-- **PDF** → [hospital_reports.pdf](hospital_reports.pdf)  
 
 ## 📌 Usage  
 1. Import `hospital_management.sql` into MySQL.  
