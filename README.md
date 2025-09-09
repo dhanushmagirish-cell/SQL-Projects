@@ -12,7 +12,7 @@ A relational database system to handle hospital operations such as managing pati
 - **Views & Triggers** – For automation and simplified data access  
 - **Reports** – Queries for analytics (e.g., top doctors, revenue reports)  
 
-📁 [View Project Folder](./Hospital_Management)  
+📁 [View Project Folder](./Hospital%20Management)  
 
 ---
 
@@ -25,7 +25,7 @@ A backend database designed to support social media data analysis, focusing on u
 - **Stored Procedures & Functions** – For analytics tasks (e.g., top posts, active users)  
 - **Reports** – Example queries for engagement metrics and growth trends  
 
-📁 [View Project Folder](./Social_Media_Analytics)  
+📁 [View Project Folder](./Social%20Media%20Analytics)  
 
 ---
 
