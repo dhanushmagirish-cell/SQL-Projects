@@ -36,12 +36,6 @@ Covers schema design, sample data, views, triggers, window functions, and report
 
 ---
 
-## 📊 Sample Reports  
-- **Excel** → [social_reports.xlsx](social_reports.xlsx)  
-- **PDF** → [social_reports.pdf](social_reports.pdf)  
-
----
-
 ## 📌 Usage  
 1. Import `social_management.sql` into PostgreSQL.  
 2. Explore the schema and insert your own test data if needed.  
