@@ -9,8 +9,6 @@ A SQL-based project designed to manage **patients, doctors, visits, billing, and
 - **hospital_functions.sql** → Stored procedure & function  
 - **hospital_triggers.sql** → Triggers for patient discharge & billing update  
 - **hospital_reports.sql** → SQL queries for reporting  
-- **hospital_reports.xlsx** → Reports in Excel format  
-- **hospital_reports.pdf** → Reports in PDF format  
 
 ## 🛠️ Tools  
 - MySQL  
